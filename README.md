@@ -4,7 +4,7 @@
 <p align="left">
 <a href="https://twitter.com/code__oz" target="blank"><img src="https://img.shields.io/twitter/follow/code__oz?logo=twitter&style=for-the-badge" alt="code__oz" /></a> </p>
 <p align="left">
-<a href="https://dev.to/code-oz" target="blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="code__oz" /></a> </p>
+<a href="https://dev.to/codeozz" target="blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="code__oz" /></a> </p>
 
 <p align="left">
 <a href="https://stackoverflow.com/users/15196591" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15196591" height="35" width="35" /></a>
