@@ -7,8 +7,13 @@
 <a href="https://dev.to/codeozz" target="blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="code__oz" /></a> </p>
 
 <p align="left">
-<a href="https://stackoverflow.com/users/15196591" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15196591" height="35" width="35" /></a>
+<a href="https://twitter.com/code__oz" target="blank"><img src="https://img.shields.io/badge/Github-grey.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+R2l0SHViPC90aXRsZT48cGF0aCBkPSJNMTIgLjI5N2MtNi42MyAwLTEyIDUuMzczLTEyIDEyIDAgNS4zMDMgMy40MzggOS44IDguMjA1IDExLjM4NS42LjExMy44Mi0uMjU4LjgyLS41NzcgMC0uMjg1LS4wMS0xLjA0LS4wMTUtMi4wNC0zLjMzOC43MjQtNC4wNDItMS42MS00LjA0Mi0xLjYxQzQuNDIyIDE4LjA3IDMuNjMzIDE3LjcgMy42MzMgMTcuN2MtMS4wODctLjc0NC4wODQtLjcyOS4wODQtLjcyOSAxLjIwNS4wODQgMS44MzggMS4yMzYgMS44MzggMS4yMzYgMS4wNyAxLjgzNSAyLjgwOSAxLjMwNSAzLjQ5NS45OTguMTA4LS43NzYuNDE3LTEuMzA1Ljc2LTEuNjA1LTIuNjY1LS4zLTUuNDY2LTEuMzMyLTUuNDY2LTUuOTMgMC0xLjMxLjQ2NS0yLjM4IDEuMjM1LTMuMjItLjEzNS0uMzAzLS41NC0xLjUyMy4xMDUtMy4xNzYgMCAwIDEuMDA1LS4zMjIgMy4zIDEuMjMuOTYtLjI2NyAxLjk4LS4zOTkgMy0uNDA1IDEuMDIuMDA2IDIuMDQuMTM4IDMgLjQwNSAyLjI4LTEuNTUyIDMuMjg1LTEuMjMgMy4yODUtMS4yMy42NDUgMS42NTMuMjQgMi44NzMuMTIgMy4xNzYuNzY1Ljg0IDEuMjMgMS45MSAxLjIzIDMuMjIgMCA0LjYxLTIuODA1IDUuNjI1LTUuNDc1IDUuOTIuNDIuMzYuODEgMS4wOTYuODEgMi4yMiAwIDEuNjA2LS4wMTUgMi44OTYtLjAxNSAzLjI4NiAwIC4zMTUuMjEuNjkuODI1LjU3QzIwLjU2NSAyMi4wOTIgMjQgMTcuNTkyIDI0IDEyLjI5N2MwLTYuNjI3LTUuMzczLTEyLTEyLTEyIi8+PC9zdmc+" alt="code__oz" /></a>
 </p>
+
+<p align="left">
+<a href="https://stackoverflow.com/users/15196591" target="blank"><img src="https://img.shields.io/badge/StackOverFlow-orange.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+U3RhY2sgT3ZlcmZsb3c8L3RpdGxlPjxwYXRoIGQ9Ik0xNS43MjUgMGwtMS43MiAxLjI3NyA2LjM5IDguNTg4IDEuNzE2LTEuMjc3TDE1LjcyNSAwem0tMy45NCAzLjQxOGwtMS4zNjkgMS42NDQgOC4yMjUgNi44NSAxLjM2OS0xLjY0NC04LjIyNS02Ljg1em0tMy4xNSA0LjQ2NWwtLjkwNSAxLjk0IDkuNzAyIDQuNTE3LjkwNC0xLjk0LTkuNzAxLTQuNTE3em0tMS44NSA0Ljg2bC0uNDQgMi4wOTMgMTAuNDczIDIuMjAxLjQ0LTIuMDkyLTEwLjQ3My0yLjIwM3pNMS44OSAxNS40N1YyNGgxOS4xOXYtOC41M2gtMi4xMzN2Ni4zOTdINC4wMjF2LTYuMzk2SDEuODl6bTQuMjY1IDIuMTMzdjIuMTNoMTAuNjZ2LTIuMTNINi4xNTRaIi8+PC9zdmc+" alt="code__oz" /></a>
+</p>
+
 
 <img align="right" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
 
@@ -50,3 +55,5 @@
 
 <p>
 <a href="https://www.buymeacoffee.com/CodeoZ"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="CodeoZ" /></a></p><br><br>
+<a href="https://twitter.com/code__oz" target="blank"><img src="https://img.shields.io/badge/Newsletters-orange.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+U3Vic3RhY2s8L3RpdGxlPjxwYXRoIGQ9Ik0yMi41MzkgOC4yNDJIMS40NlY1LjQwNmgyMS4wOHYyLjgzNnpNMS40NiAxMC44MTJWMjRMMTIgMTguMTEgMjIuNTQgMjRWMTAuODEySDEuNDZ6TTIyLjU0IDBIMS40NnYyLjgzNmgyMS4wOFYweiIvPjwvc3ZnPg==" alt="code__oz" /></a>
+
