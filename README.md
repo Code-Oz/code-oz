@@ -23,7 +23,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/codeozz](https://dev.to/codeozz)
 
-- 📫 My newletters **https://codeoz.substack.com/welcome**
+- 📫 My newletters **https://www.getrevue.co/profile/code__oz**
 
 <h3 align="left">Languages and Tools:</h3>
 
