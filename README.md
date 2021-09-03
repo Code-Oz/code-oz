@@ -56,5 +56,5 @@
 <p>
 <a href="https://www.buymeacoffee.com/CodeoZ"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="CodeoZ" /></a></p><br><br><br>
 
-<a href="https://twitter.com/code__oz" target="blank"><img src="https://img.shields.io/badge/Newsletters-orange.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+U3Vic3RhY2s8L3RpdGxlPjxwYXRoIGQ9Ik0yMi41MzkgOC4yNDJIMS40NlY1LjQwNmgyMS4wOHYyLjgzNnpNMS40NiAxMC44MTJWMjRMMTIgMTguMTEgMjIuNTQgMjRWMTAuODEySDEuNDZ6TTIyLjU0IDBIMS40NnYyLjgzNmgyMS4wOFYweiIvPjwvc3ZnPg==" alt="code__oz" /></a>
+<a href="https://www.getrevue.co/profile/code__oz" target="blank"><img src="https://img.shields.io/badge/Newsletters-orange.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+U3Vic3RhY2s8L3RpdGxlPjxwYXRoIGQ9Ik0yMi41MzkgOC4yNDJIMS40NlY1LjQwNmgyMS4wOHYyLjgzNnpNMS40NiAxMC44MTJWMjRMMTIgMTguMTEgMjIuNTQgMjRWMTAuODEySDEuNDZ6TTIyLjU0IDBIMS40NnYyLjgzNmgyMS4wOFYweiIvPjwvc3ZnPg==" alt="code__oz" /></a>
 
