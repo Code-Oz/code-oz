@@ -21,7 +21,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Code-Oz](https://github.com/Code-Oz) and https://www.npmjs.com/~code-oz
 
-- 📝 I regularly write articles on [https://dev.to/codeozz](https://dev.to/codeozz)
+- 📝 I regularly write articles on [https://dev.to/codeoz](https://dev.to/codeoz)
 
 - 📫 My newletters **https://www.getrevue.co/profile/code__oz**
 
