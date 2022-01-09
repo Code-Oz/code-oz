@@ -5,6 +5,8 @@
 
 <h3 align="center">My latest project 👨‍💻</h3>
 
+<h4 align="center"> - 📖 <a href="https://codeoz-blog.com/" target="_blank" rel="noopener" > My blog </a> </h4>
+
 <h4 align="center"> - 🎧 <a href="https://www.chillflix.art/" target="_blank" rel="noopener" > Chillflix - Radio Chill Lofi </a> </h4>
 
 <h4 align="center"> - 🤖 <a href="https://chrome.google.com/webstore/detail/beta-twitch-plus/ahdoacgdgcgkhmajnmibefppffbbkgnl?hl=fr&authuser=0" target="_blank" rel="noopener">
