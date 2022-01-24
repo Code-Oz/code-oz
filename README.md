@@ -7,9 +7,9 @@
 
 <h4 align="center"> - 📖 <a href="https://codeoz-blog.com/" target="_blank" rel="noopener" > My blog </a> </h4>
 
-<h4 align="center"> - 📖 <a href="https://ccbox-tv.herokuapp.com/" target="_blank" rel="noopener" > CacaboxTV </a> (Netflix youtube channel for the Youtube Channel named Cacabox) </h4>
+<h4 align="center"> - 📹 <a href="https://ccbox-tv.herokuapp.com/" target="_blank" rel="noopener" > CacaboxTV </a> (Netflix youtube channel for the Youtube Channel named Cacabox) </h4>
 
-<h4 align="center"> - 📖 <a href="https://github.com/Code-Oz/youtube-dl-front" target="_blank" rel="noopener" > YT Downloader </a> </h4>
+<h4 align="center"> - �🛠 <a href="https://github.com/Code-Oz/youtube-dl-front" target="_blank" rel="noopener" > YT Downloader </a> </h4>
 
 <h4 align="center"> - 🎧 <a href="https://www.chillflix.art/" target="_blank" rel="noopener" > Chillflix - Radio Chill Lofi </a> </h4>
 
