@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=code-oz&label=Profile%20views&color=0e75b6&style=flat" alt="code-oz" /> </p>
+
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Code-Oz</h1>
 <h3 align="center">Love JS, love writting dev article and share my knowledges</h3>
 
@@ -28,8 +30,6 @@ What is this operator ?</a> (Extension on vs code) </h4>
     <a href="https://www.npmjs.com/package/liftp-js" target="_blank" rel="noopener" > liftp  </a> 
 </h4>
 <p align="left">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=code-oz&label=Profile%20views&color=0e75b6&style=flat" alt="code-oz" /> </p>
     
 <a href="https://www.youtube.com/channel/UCC675U1ZUPFASsK9-FjawtA" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCC675U1ZUPFASsK9-FjawtA?style=social" alt="code__oz" /></a> </p>
 
