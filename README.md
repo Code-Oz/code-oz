@@ -29,6 +29,8 @@ What is this operator ?</a> (Extension on vs code) </h4>
 </h4>
 <p align="left">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=code-oz&label=Profile%20views&color=0e75b6&style=flat" alt="code-oz" /> </p>
+    
 <a href="https://www.youtube.com/channel/UCC675U1ZUPFASsK9-FjawtA" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCC675U1ZUPFASsK9-FjawtA?style=social" alt="code__oz" /></a> </p>
 
 <a href="https://twitter.com/code__oz" target="blank"><img src="https://img.shields.io/twitter/follow/code__oz?logo=twitter&style=for-the-badge" alt="code__oz" /></a> </p>
