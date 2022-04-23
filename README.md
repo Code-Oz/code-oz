@@ -9,7 +9,7 @@
 
 <h4 align="center"> - 📖 <a href="https://codeoz-blog.com/" target="_blank" rel="noopener" > My blog </a> </h4>
 
-<h4 align="center"> - 📹 <a href="https://ccbox-tv.herokuapp.com/" target="_blank" rel="noopener" > CacaboxTV </a> (Netflix youtube channel for the Youtube Channel named Cacabox) </h4>
+<h4 align="center"> - 📹 <a href="https://cacabox-tv.com/" target="_blank" rel="noopener" > CacaboxTV </a> (Netflix youtube channel for the Youtube Channel named Cacabox) </h4>
 
 <h4 align="center"> - �🛠 <a href="https://github.com/Code-Oz/youtube-dl-front" target="_blank" rel="noopener" > YT Downloader </a> </h4>
 
@@ -22,7 +22,7 @@ Twitch plus</a> (Chrome extension that improve your experience on twitch) </h4>
 What is this operator ?</a> (Extension on vs code) </h4>
 
 <h4 align="center">
-    - 📚 I write a book named: <a href="goodies/ebook" target="_blank" rel="noopener"  style="margin-left: 5px;"> underrated skills on javascript, make the difference </a>
+    - 📚 I write a book named: <a href="https://codeoz-blog.com/goodies/ebook" target="_blank" rel="noopener"  style="margin-left: 5px;"> underrated skills on javascript, make the difference </a>
 </h4>
 
 <h4 align="center">
