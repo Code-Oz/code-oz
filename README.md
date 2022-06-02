@@ -31,16 +31,20 @@
   <table>
         <tr>
             <td width="50%">
-                <h3 align="center">My Blog 📰</h3>
+                <h3 align="center">
+                    <a href="https://codeoz-blog.com/" target="_blank" rel="noreferrer">My Blog 📰</a>
+                </h3>
                 <p align="center">
                     <a href="https://codeoz-blog.com/" target="_blank" rel="noreferrer"> <img src="./static/oz-blog.gif" alt="codeoz blog"/> </a>
                     <p align="center">
                         This is my own blog where I share my knowledges
                     </p>
-            </p>
+                </p>
             </td>
             <td width="50%">
-                <h3 align="center">Chillflix 🎶</h3>
+                <h3 align="center">
+                    <a href="https://www.chillflix.art/" target="_blank" rel="noreferrer"> Chillflix 🎶</a>
+                </h3>
                 <p align="center">
                     <a href="https://www.chillflix.art/" target="_blank" rel="noreferrer"> <img src="./static/chillflix.gif" alt="chillflix"/> </a>
                     <p align="center">
@@ -51,7 +55,9 @@
         </tr>
         <tr>
             <td width="50%">
-                <h3 align="center">CCbox TV 📹</h3>
+                <h3 align="center">
+                    <a href="https://cacabox-tv.com/" target="_blank" rel="noreferrer">CCbox TV 📹</a>
+                </h3>
                 <p align="center">
                     <a href="https://cacabox-tv.com/" target="_blank" rel="noreferrer"> <img src="./static/ccbox-tv.gif" alt="ccbox-tv"/> </a>
                     <p align="center">
@@ -65,14 +71,16 @@
                     <a href="https://www.npmjs.com/package/unbox-js" target="_blank" rel="noreferrer"> <img src="./static/unbox-js.gif" alt="unbox-js"/> </a>
                     <a href="https://www.npmjs.com/package/unbox-js" target="blank"><img src="https://img.shields.io/npm/dy/unbox-js" alt="unbox-js-badge" /></a>
                     <p align="center">
-                        NPM repository created with a friend to help web developper
+                        npm repository
                     </p>
             </p>
             </td>
         </tr>
         <tr>
             <td width="50%" align="center">
-                <h3 align="center">Underrated skill in javascript 📚</h3>
+                <h3 align="center">
+                <a href="https://codeoz.gumroad.com/l/RXLYp" target="_blank" rel="noreferrer">Underrated skill in javascript 📚</a>
+                </h3>
                 <p align="center">
                     <a href="https://codeoz.gumroad.com/l/RXLYp" target="_blank" rel="noreferrer"> <img src="./static/ebook-underrated.png" alt="ccbox-tv" /> </a>
                     <p align="center">
