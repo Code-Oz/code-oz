@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-oz&label=Profile%20views&color=0e75b6&style=flat" alt="code-oz" /> </p>
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Code-Oz</h1>
+<h1 align="center">Hi I'm Code-Oz</h1>
 
 <!-- Intro -->
 
