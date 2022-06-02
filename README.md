@@ -3,11 +3,11 @@
 
 <!-- Intro -->
 
-
-<img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=developer+fullstack;coffee+addict;vuejs+for+life">
-<h3 align="center">Love JS, love writting dev article and share my knowledges</h3>
-<h3 align="center">I'm web developper and I make some application, writting some articles and making video on youtube for french 🥖 web dev</h3>
-
+<p style="margin: 15px;" align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=developer+fullstack;coffee+addict;vuejs+for+life">
+    <h3 align="center">Love JS, love writting dev article and share my knowledges</h3>
+    <h3 align="center">I'm web developper and I make some application, writting some articles and making video on youtube for french 🥖 web dev</h3>
+</p>
 
 <!-- Social network -->
 <p style="margin-top: 50px;">
