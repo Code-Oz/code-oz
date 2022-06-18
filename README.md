@@ -138,7 +138,7 @@
 
 <!-- Important repo -->
 
-<h1 align="center"> Important Repository </h1>
+<h1 align="center"> Important Repository ⭐️ </h1>
 <div align="center">
 <table>
     <tr>
