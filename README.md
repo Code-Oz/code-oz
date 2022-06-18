@@ -21,8 +21,14 @@
         <a href="https://dev.to/codeoz" target="blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="code__oz" /></a>
     </p>
     <p align="left">
-        <a href="https://github.com/Code-Oz" target="blank"><img src="https://img.shields.io/badge/Github-grey.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+R2l0SHViPC90aXRsZT48cGF0aCBkPSJNMTIgLjI5N2MtNi42MyAwLTEyIDUuMzczLTEyIDEyIDAgNS4zMDMgMy40MzggOS44IDguMjA1IDExLjM4NS42LjExMy44Mi0uMjU4LjgyLS41NzcgMC0uMjg1LS4wMS0xLjA0LS4wMTUtMi4wNC0zLjMzOC43MjQtNC4wNDItMS42MS00LjA0Mi0xLjYxQzQuNDIyIDE4LjA3IDMuNjMzIDE3LjcgMy42MzMgMTcuN2MtMS4wODctLjc0NC4wODQtLjcyOS4wODQtLjcyOSAxLjIwNS4wODQgMS44MzggMS4yMzYgMS44MzggMS4yMzYgMS4wNyAxLjgzNSAyLjgwOSAxLjMwNSAzLjQ5NS45OTguMTA4LS43NzYuNDE3LTEuMzA1Ljc2LTEuNjA1LTIuNjY1LS4zLTUuNDY2LTEuMzMyLTUuNDY2LTUuOTMgMC0xLjMxLjQ2NS0yLjM4IDEuMjM1LTMuMjItLjEzNS0uMzAzLS41NC0xLjUyMy4xMDUtMy4xNzYgMCAwIDEuMDA1LS4zMjIgMy4zIDEuMjMuOTYtLjI2NyAxLjk4LS4zOTkgMy0uNDA1IDEuMDIuMDA2IDIuMDQuMTM4IDMgLjQwNSAyLjI4LTEuNTUyIDMuMjg1LTEuMjMgMy4yODUtMS4yMy42NDUgMS42NTMuMjQgMi44NzMuMTIgMy4xNzYuNzY1Ljg0IDEuMjMgMS45MSAxLjIzIDMuMjIgMCA0LjYxLTIuODA1IDUuNjI1LTUuNDc1IDUuOTIuNDIuMzYuODEgMS4wOTYuODEgMi4yMiAwIDEuNjA2LS4wMTUgMi44OTYtLjAxNSAzLjI4NiAwIC4zMTUuMjEuNjkuODI1LjU3QzIwLjU2NSAyMi4wOTIgMjQgMTcuNTkyIDI0IDEyLjI5N2MwLTYuNjI3LTUuMzczLTEyLTEyLTEyIi8+PC9zdmc+" alt="code__oz" /></a>
-    </p>    
+        <a href="https://aws.amazon.com/certification/certified-developer-associate/" target="blank"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="code__oz" /></a>
+    </p>
+    <p align="left">
+        <a href="https://www.tiktok.com/@code_oz" target="blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="code__oz" /></a>
+    </p>
+    <p align="left">
+        <a href="https://github.com/Code-Oz" target="blank"><img src="https://img.shields.io/github/followers/code-oz?style=social" alt="code__oz" /></a>
+    </p>
 </p>
 <p>&nbsp;<img align="center" src="https://github-profile-trophy.vercel.app/?username=code-oz&theme=onedark&rank=S,AAA,AA,A, B" alt="code-oz" /></p>
 <!-- Projects -->
@@ -43,10 +49,10 @@
             </td>
             <td width="50%">
                 <h3 align="center">
-                    <a href="https://www.chillflix.art/" target="_blank" rel="noreferrer"> Chillflix 🎶</a>
+                    <a href="https://chillflix-radio.com/" target="_blank" rel="noreferrer"> Chillflix 🎶</a>
                 </h3>
                 <p align="center">
-                    <a href="https://www.chillflix.art/" target="_blank" rel="noreferrer"> <img src="./static/chillflix.gif" alt="chillflix"/> </a>
+                    <a href="https://chillflix-radio.com/" target="_blank" rel="noreferrer"> <img src="./static/chillflix.gif" alt="chillflix"/> </a>
                     <p align="center">
                         A chill radio from youtube to listen Lo-Fi music without being disturbed
                     </p>
@@ -130,6 +136,103 @@
   </table>
 </div>
 
+<!-- Important repo -->
+
+<h1 align="center"> Important Repository </h1>
+<div align="center">
+<table>
+    <tr>
+        <td width="50%">
+            <p align="center">
+                <a href="https://github.com/Code-Oz/setup-linux-dev" target="_blank" rel="noopener"> Setup dev from start </a>
+             </p>
+            <p align="center">
+                <a href="https://github.com/Code-Oz/setup-linux-dev" target="blank"><img src="https://img.shields.io/github/stars/code-oz/setup-linux-dev?style=social" alt="code__oz" /></a>
+            </p>
+        </td>
+         <td width="50%">
+            <p align="center">
+                <a href="https://github.com/Code-Oz/basic-express-typescript" target="_blank" rel="noopener"> Basic express typescript bootstrap </a>
+             </p>
+            <p align="center">
+                <a href="https://github.com/Code-Oz/basic-express-typescript" target="blank"><img src="https://img.shields.io/github/stars/code-oz/basic-express-typescript?style=social" alt="code__oz" /></a>
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td width="50%">
+            <p align="center">
+                <a href="https://github.com/cendevweb/unbox" target="_blank" rel="noopener"> Unbox js npm repo </a>
+             </p>
+            <p align="center">
+                <a href="https://github.com/cendevweb/unbox" target="blank"><img src="https://img.shields.io/github/stars/cendevweb/unbox?style=social" alt="code__oz" /></a>
+            </p>
+            <p align="center">
+                <a href="https://www.npmjs.com/package/unbox-js" target="blank"><img src="https://img.shields.io/npm/dy/unbox-js" alt="unbox-js-badge" /></a>
+            </p>
+        </td>
+         <td width="50%">
+            <p align="center">
+                <a href="https://github.com/Code-Oz/code-oz" target="_blank" rel="noopener"> CodeOz Profile </a>
+             </p>
+            <p align="center">
+                <a href="https://github.com/Code-Oz/code-oz" target="blank"><img src="https://img.shields.io/github/stars/code-oz/code-oz?style=social" alt="code__oz" /></a>
+            </p>
+        </td>
+    </tr>
+</table>
+ 
+<!-- Important Articles -->
+
+<h1 align="center"> Most viewed article on Devto 📰 </h1>
+<div align="center">
+<table>
+    <tr>
+        <td width="50%">
+            <p align="center">
+                <a href="https://dev.to/codeoz/improve-your-js-skills-with-theses-tips-2-3bg2" target="_blank" rel="noopener">Improve your JS skills with those tips #2</a>
+             </p>
+            <p align="center">
+                <i>
+                    19500 views 👀
+                </i>
+            </p>
+        </td>
+         <td width="50%">
+            <p align="center">
+                <a href="https://dev.to/codeoz/enhance-your-js-skill-by-using-the-correct-array-method-5c2j" target="_blank" rel="noopener">Enhance your JS Skill by using the correct array method</a>
+             </p>
+            <p align="center">
+                <i>
+                    12000 views 👀
+                </i>
+            </p>
+        </td>
+    </tr>
+    <tr>
+         <td width="50%">
+            <p align="center">
+                <a href="https://dev.to/codeoz/7-html-attribute-you-should-know-right-now-dfn" target="_blank" rel="noopener"> 7 HTML attribute you should know right now! </a>
+             </p>
+            <p align="center">
+                <i>
+                    10000 views 👀
+                </i>
+            </p>
+        </td>
+         <td width="50%">
+            <p align="center">
+                <a href="https://dev.to/codeoz/3-ways-to-center-a-div-in-css-gl1" target="_blank" rel="noopener"> 3 Ways to CENTER a div in CSS </a>
+             </p>
+            <p align="center">
+                <i>
+                    9000 views 👀
+                </i>
+            </p>
+        </td>
+    </tr>
+</table>
+    
 <!-- Technos -->
 <h1 align="center">Languages and Tools 🛠</h1>
 
@@ -159,6 +262,8 @@
     <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="50" height="50"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/> </a>
+    <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50"/> </a>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> </a>
 </p>
 
 <h3 align="center">Others</h3>
@@ -167,6 +272,8 @@
     <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="50" height="50"/> </a>
     <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
     <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/> </a>
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+    <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
 </p>
 
 <!-- Contact -->
