@@ -29,6 +29,9 @@
     <p align="left">
         <a href="https://github.com/Code-Oz" target="blank"><img src="https://img.shields.io/github/followers/code-oz?style=social" alt="code__oz" /></a>
     </p>
+        <p align="left">
+        <a href='https://www.youtube.com/watch?v=RNSEtNQIcVM&t=1224s&ab_channel=Docker' target="blank">🐳 Docker Conf Speaker</a>
+    </p>
 </p>
 <p>&nbsp;<img align="center" src="https://github-profile-trophy.vercel.app/?username=code-oz&theme=onedark&rank=S,AAA,AA,A, B" alt="code-oz" /></p>
 <!-- Projects -->
