@@ -15,6 +15,10 @@
         <a href="https://twitter.com/code__oz" target="blank"><img src="https://img.shields.io/twitter/follow/code__oz?logo=twitter&style=for-the-badge" alt="code__oz" /></a>
     </p>
     <p align="left">
+        FR: 🇫🇷
+        <a href="https://twitter.com/codeoz_" target="blank"><img src="https://img.shields.io/twitter/follow/codeoz_?logo=twitter&style=for-the-badge" alt="codeoz_" /></a>
+    </p>
+    <p align="left">
         <a href="https://www.youtube.com/channel/UCC675U1ZUPFASsK9-FjawtA" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCC675U1ZUPFASsK9-FjawtA?style=social" alt="code__oz" /></a>
     </p>
     <p align="left">
@@ -33,7 +37,7 @@
         <a href='https://www.youtube.com/watch?v=RNSEtNQIcVM&t=1224s&ab_channel=Docker' target="blank">🐳 Docker Conf Speaker</a>
     </p>
 </p>
-<p>&nbsp;<img align="center" src="https://github-profile-trophy.vercel.app/?username=code-oz&theme=onedark&rank=S,AAA,AA,A, B" alt="code-oz" /></p>
+
 <!-- Projects -->
 <h1 align="center">My latest projects 👨‍💻</h1>
 <div align="center">
