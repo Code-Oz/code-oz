@@ -239,6 +239,8 @@
 <!-- Technos -->
 <h1 align="center">Languages and Tools 🛠</h1>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=code-oz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 <p align="center">
 
 <h3 align="center">Basics</h3>
@@ -293,3 +295,5 @@
 <p align="center">
     <img align="center" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
 </p>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
