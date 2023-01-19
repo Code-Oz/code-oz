@@ -1,6 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-oz&label=Profile%20views&color=0e75b6&style=flat" alt="code-oz" /> </p>
 <h1 align="center">Hi I'm Code-Oz</h1>
 
+
 <!-- Intro -->
 
 <p style="margin: 15px;" align="center">
@@ -126,6 +127,12 @@
                 </p>
                 <p style='margin-bottom: 175px'>
                 </p> 
+
+<p style="margin: 15px;" align="center">
+    <h1>THREEJS project</h1>
+    <h2> <a href="https://eloquent-panda-0b559c.netlify.app/" target="_blank"> Tetris animation </a> </h2>
+</p>
+
 
 <!-- Important repo -->
 
