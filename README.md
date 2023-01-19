@@ -44,17 +44,6 @@
         <tr>
             <td width="50%">
                 <h3 align="center">
-                    <a href="https://codeoz-blog.com/" target="_blank" rel="noreferrer">My Blog 📰</a>
-                </h3>
-                <p align="center">
-                    <a href="https://codeoz-blog.com/" target="_blank" rel="noreferrer"> <img src="./static/oz-blog.gif" alt="codeoz blog"/> </a>
-                    <p align="center">
-                        This is my own blog where I share my knowledges
-                    </p>
-                </p>
-            </td>
-            <td width="50%">
-                <h3 align="center">
                     <a href="https://chillflix-radio.com/" target="_blank" rel="noreferrer"> Chillflix 🎶</a>
                 </h3>
                 <p align="center">
@@ -64,8 +53,6 @@
                     </p>
             </p>
             </td>
-        </tr>
-        <tr>
             <td width="50%">
                 <h3 align="center">
                     <a href="https://cacabox-tv.com/" target="_blank" rel="noreferrer">CCbox TV 📹</a>
@@ -77,6 +64,8 @@
                     </p>
                 </p>
             </td>
+        </tr>
+        <tr>
             <td width="50%">
                 <h3 align="center">Unbox JS 📦</h3>
                 <p align="center">
@@ -85,10 +74,8 @@
                     <p align="center">
                         npm repository
                     </p>
-            </p>
+                </p>
             </td>
-        </tr>
-        <tr>
             <td width="50%" align="center">
                 <h3 align="center">
                 <a href="https://codeoz.gumroad.com/l/RXLYp" target="_blank" rel="noreferrer">Underrated skill in javascript 📚</a>
@@ -100,13 +87,15 @@
                     </p>
                 </p>
             </td>
-            <td width="100%" align="center">
-                <h3 align="center">Others ...</h3>
-                </p>
+        </tr>
+  </table>
+</div>
+
+<h3 align="center">Others ...</h3>
                 <p align="center">
                     <p align="center">
                         <a href="https://marketplace.visualstudio.com/items?itemName=code-oz.what-is-operator-javascript" target="_blank" rel="noreferrer">What is operator javascript 🔌 </a>
-                        <p>
+                        <p align="center">
                             I created an operator lookup plugin for all VSCode user!
                         </p>
                     </p>
@@ -114,7 +103,7 @@
                 <p align="center">
                     <p align="center">
                         <a href="https://github.com/Code-Oz/youtube-dl-front" target="_blank" rel="noopener" > YT Downloader 🛠</a>
-                        <p>
+                        <p align="center">
                             I created a youtube downloader that manage video & playlist
                         </p>
                     </p>
@@ -122,7 +111,7 @@
                 <p align="center">
                     <p align="center">
                         <a href="https://chrome.google.com/webstore/detail/beta-twitch-plus/ahdoacgdgcgkhmajnmibefppffbbkgnl?hl=fr&authuser=0" target="_blank" rel="noopener"> Twitch plus 🤖</a> 
-                        <p>
+                        <p align="center">
                             Chrome extension that improve your experience on twitch
                         </p>
                     </p>
@@ -130,17 +119,13 @@
                 <p align="center">
                     <p align="center">
                         <a href="https://www.npmjs.com/package/liftp-js" target="_blank" rel="noopener"> liftP JS 📦</a> 
-                        <p>
+                        <p align="center">
                             NPM Package to modify a sync function into an async function without manage parameters
                         </p>
                     </p>
                 </p>
                 <p style='margin-bottom: 175px'>
-                </p>  
-            </td>
-        </tr>
-  </table>
-</div>
+                </p> 
 
 <!-- Important repo -->
 
