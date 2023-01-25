@@ -132,6 +132,7 @@
     <h1 align="center">THREEJS project 🎥</h1>
     <h2> <a href="https://eloquent-panda-0b559c.netlify.app/" target="_blank"> Tetris animation </a> </h2>
     <h2> <a href="https://nimble-stroopwafel-0b8154.netlify.app/" target="_blank"> Wood door textures materials </a> </h2>
+    <h2> <a href="https://github.com/Code-Oz/threejs-text-3d" target="_blank"> 3D Text </a> </h2>
     <h2> <a href="https://vermillion-fudge-67b838.netlify.app/" target="_blank"> Animation scene </a> </h2>
 </p>
 
