@@ -135,6 +135,7 @@
     <h2> <a href="https://github.com/Code-Oz/threejs-text-3d" target="_blank"> 3D Text </a> </h2>
     <h2> <a href="https://vermillion-fudge-67b838.netlify.app/" target="_blank"> Animation scene </a> </h2>
     <h2> <a href="https://sparkling-pastelito-df786f.netlify.app/" target="_blank"> Light Scene debug </a> </h2>
+    <h2> <a href="https://roaring-rugelach-9ba47a.netlify.app/" target="_blank"> Baked shadows </a> </h2>
 </p>
 
 <!-- Important repo -->
