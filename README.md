@@ -132,6 +132,8 @@
     <h1 align="center">THREEJS project 🎥</h1>
     <h2> <a href="https://eloquent-panda-0b559c.netlify.app/" target="_blank"> Tetris animation </a> </h2>
     <h2> <a href="https://nimble-stroopwafel-0b8154.netlify.app/" target="_blank"> Wood door textures materials </a> </h2>
+    <h2> <a href="https://hilarious-cheesecake-2cef3e.netlify.app/" target="_blank"> Transform textures </a> </h2>
+    <h2> <a href="https://flourishing-manatee-68cd50.netlify.app" target="_blank"> Filtering textures </a> </h2>
     <h2> <a href="https://zippy-frangollo-0cfaaf.netlify.app" target="_blank"> 3D Text </a> </h2>
     <h2> <a href="https://vermillion-fudge-67b838.netlify.app/" target="_blank"> Animation scene </a> </h2>
     <h2> <a href="https://sparkling-pastelito-df786f.netlify.app/" target="_blank"> Light Scene debug </a> </h2>
