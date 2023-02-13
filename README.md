@@ -137,6 +137,7 @@
     <h2> <a href="https://zippy-frangollo-0cfaaf.netlify.app" target="_blank"> 3D Text </a> </h2>
     <h2> <a href="https://vermillion-fudge-67b838.netlify.app/" target="_blank"> Animation scene </a> </h2>
     <h2> <a href="https://sparkling-pastelito-df786f.netlify.app/" target="_blank"> Light Scene debug </a> </h2>
+        <h2> <a href="https://charming-belekoy-130aaa.netlify.app" target="_blank"> Fog scene debug </a> </h2>
     <h2> <a href="https://roaring-rugelach-9ba47a.netlify.app/" target="_blank"> Baked shadows </a> </h2>
     <h2> <a href="https://prismatic-blini-187ac1.netlify.app" target="_blank"> Debug shadows </a> </h2>
    <h2> <a href="https://wondrous-semifreddo-df312d.netlify.app/" target="_blank"> Galaxy </a> </h2>
