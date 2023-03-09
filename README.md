@@ -72,6 +72,32 @@
         </tr>
         <tr>
             <td width="50%">
+                <h3 align="center">
+                    <a href="https://chrome.google.com/webstore/detail/chatpgt-copy-export-clipb/pepppbfidpcpglligpchbmdnjpjiidae" target="_blank" rel="noreferrer"> Chrome plugin: Chatpgt Copy Export Clipboard </a>
+                </h3>
+                <p align="center">
+                    <a href="https://chrome.google.com/webstore/detail/chatpgt-copy-export-clipb/pepppbfidpcpglligpchbmdnjpjiidae" target="_blank" rel="noreferrer"> <img src="./static/logo-chatgpt-plugin.png" alt="chatpgt-plugin" width="50%"/> </a>
+                    <p align="center">
+                       🪄 Enhance CHATGPT with copy button, export chat in any extension and clipboard manager 📋. Compatible with AIPRM ✅
+                    </p>
+            </p>
+            </td>
+                        <td width="50%">
+                <h3 align="center">
+                    <a href="https://chrome.google.com/webstore/detail/pets-chrome/ifaicffibnedodkbekogndkdfeojcofb" target="_blank" rel="noreferrer">Chrome plugin: Pets for chrome</a>
+                </h3>
+                <p align="center">
+                    <a href="https://chrome.google.com/webstore/detail/pets-chrome/ifaicffibnedodkbekogndkdfeojcofb" target="_blank" rel="noreferrer"> <img src="./static/logo-pet-chrome.png" alt="pets for chrome" width="50%"/> </a>
+                    <p align="center">
+                        🐾 Pets for Chrome is an application that adds cute and cuddly pets right into your browser.
+                    </p>
+                        <p align="center">
+                        10 000 + curent users ! 
+                    </p>
+            </p>
+            </td>logo-pet-chrome.png
+        <tr>
+            <td width="50%">
                 <h3 align="center">Unbox JS 📦</h3>
                 <p align="center">
                     <a href="https://www.npmjs.com/package/unbox-js" target="_blank" rel="noreferrer"> <img src="./static/unbox-js.gif" alt="unbox-js"/> </a>
