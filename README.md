@@ -307,7 +307,11 @@
 </p>
 
 <h3 align="center">Others</h3>
-<p align="center">
+    <p align="center">
+    <a href="https://pnpm.io/" target="_blank"> <img src="https://d33wubrfki0l68.cloudfront.net/aad219b6c931cebb53121dcda794f6180d9e4397/17f34/assets/images/pnpm-standard-79c9dbb2e99b8525ae55174580061e1b.svg" alt="git" width="50" height="50"/> </a>
+         <a href="https://turbo.build/repo" target="_blank"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/turborepo-icon.svg" alt="git" width="50" height="50"/> </a>
+                 <a href="https://prettier.io/" target="_blank"> <img src="https://github.com/get-icon/geticon/blob/master/icons/prettier.svg" alt="git" width="50" height="50"/> </a>
+                         <a href="https://eslint.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" alt="git" width="50" height="50"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
     <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="50" height="50"/> </a>
     <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
