@@ -185,6 +185,16 @@
                     </p>
                 </p>
             </td>
+            <td width="50%" align="center">
+                <h3 align="center">
+                    Bot creator
+                </h3>
+                <p align="center">
+                    <p align="center">
+                        I create a bot manager with Puppeteer
+                    </p>
+                </p>
+            </td>
         </tr>
   </table>
 </div>
@@ -204,12 +214,20 @@
 	</p>
 	<p align="center">
 		<p align="center">
-			Oz Blog
+			<b>Oz Blog</b>
 			<p align="center">
 				<a href="https://chillflix-radio.com/" target="_blank" rel="noreferrer"> <img src="./static/oz-blog.gif" alt="oz-blog"/> </a>
 				<p align="center">
 					My old blog based on Nuxt 2, NestJS and MongoDB.
 				</p>
+			</p>
+		</p>
+	</p>
+	<p align="center">
+		<p align="center">
+            <b>Old Monorepo with yarn workspace</b>
+			<p align="center">
+				I create a monorepo with yarn workspace from scratch. I updated a new one (see above !) ☝️
 			</p>
 		</p>
 	</p>
@@ -443,6 +461,6 @@
 </p>
 <p align="center">
 	<a href='https://ko-fi.com/codeoz' target='_blank'><img height='35' style='border:0px;height:46px;'       src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
-</p>  
+</p>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
