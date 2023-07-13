@@ -79,20 +79,21 @@
         </tr>
         <tr>
             <td width="50%">
-                <h3 align="center">
-                    Monorepo
+				<h3 align="center">
+                    <a href="https://dynamic-crisp-df32b7.netlify.app/" target="_blank" rel="noreferrer">Gallery Scroll Experience</a>
                 </h3>
                 <p align="center">
+                    <a href="https://dynamic-crisp-df32b7.netlify.app/"  target="_blank" rel="noreferrer"> <img src="./static/gallery.gif" alt="gallery"/> </a>
                     <p align="center">
-                       I created a whole monorepo from scratch, this monorepo support automatically re-build libs and reload all api and front applications.
+                        Gallery Scroll Experience, recommended on computer 🖥 
                     </p>
 					<details>
 						<summary>
 						<b>Note 📝</b>
 						</summary>
-						I Created it with PNPM, Turborepo, Docker compose, Typescript support, Bash script, ESLINT, Prettier, Editor config, Jest, Husky. My best improvement with my last monorepo creation is the replacement of Yarn workspace by PNPM and the lib auto-rebuild with Turborepo.
+						I used Gsap + Lenis.
 					</details>
-            </p>
+                </p>
             </td>
 				<td width="50%">
                 <h3 align="center">
@@ -163,15 +164,20 @@
 			</td>
             <td width="50%">
                 <h3 align="center">
-					<a href="https://planter-malin.fr/" target="blank">Planter malin</a>
+                    Monorepo
                 </h3>
                 <p align="center">
-					<img src="https://www.planter-malin.fr/wp-content/uploads/2023/04/1.png" alt="javascript" width="150" height="150"/>
                     <p align="center">
-                       Wordpress blog for a client.
+                       I created a whole monorepo from scratch, this monorepo support automatically re-build libs and reload all api and front applications.
                     </p>
+					<details>
+						<summary>
+						<b>Note 📝</b>
+						</summary>
+						I Created it with PNPM, Turborepo, Docker compose, Typescript support, Bash script, ESLINT, Prettier, Editor config, Jest, Husky. My best improvement with my last monorepo creation is the replacement of Yarn workspace by PNPM and the lib auto-rebuild with Turborepo.
+					</details>
 				</p>
-			</td>
+            </td>
         </tr>
 		<tr>
             <td width="50%" align="center">
@@ -185,6 +191,19 @@
                     </p>
                 </p>
             </td>
+            <td width="50%">
+                <h3 align="center">
+					<a href="https://planter-malin.fr/" target="blank">Planter malin</a>
+                </h3>
+                <p align="center">
+					<img src="https://www.planter-malin.fr/wp-content/uploads/2023/04/1.png" alt="javascript" width="150" height="150"/>
+                    <p align="center">
+                       Wordpress blog for a client.
+                    </p>
+				</p>
+			</td>
+        </tr>
+		<tr>
             <td width="50%" align="center">
                 <h3 align="center">
                     Bot creator
