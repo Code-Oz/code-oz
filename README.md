@@ -66,7 +66,7 @@
                 <p align="center">
                     <a href="https://cacabox-tv.com/" target="_blank" rel="noreferrer"> <img src="./static/ccbox-tv.gif" alt="ccbox-tv"/> </a>
                     <p align="center">
-                        A netflix like for the Youtube Channel Cacabox TV
+                        A netflix like for the Youtube Channel CCBTV
                     </p>
 					<details>
 						<summary>
@@ -85,7 +85,7 @@
                 <p align="center">
                     <a href="https://dynamic-crisp-df32b7.netlify.app/"  target="_blank" rel="noreferrer"> <img src="./static/gallery.gif" alt="gallery"/> </a>
                     <p align="center">
-                        Gallery Scroll Experience, recommended on computer 🖥 
+                        Gallery Scroll Experience, recommended on computer 🖥
                     </p>
 					<details>
 						<summary>
@@ -105,7 +105,7 @@
                         🐾 Pets for Chrome is an application that adds cute and cuddly pets right into your browser.
                     </p>
                         <p align="center">
-                        10 000 + current users ! 
+                        10 000 + current users !
                     </p>
 					<details>
 						<summary>
@@ -153,17 +153,6 @@
         <tr>
             <td width="50%">
                 <h3 align="center">
-					<a href="https://amoursud.fr/" target="blank">Amoursud</a>
-                </h3>
-                <p align="center">
-					<img src="https://www.amoursud.fr/wp-content/uploads/2023/06/cropped-logo-amoursud-350x50-1.png" alt="javascript" width="250" height="50"/>
-                    <p align="center">
-                       Woocommerce shop for a client.
-                    </p>
-				</p>
-			</td>
-            <td width="50%">
-                <h3 align="center">
                     Monorepo
                 </h3>
                 <p align="center">
@@ -178,9 +167,7 @@
 					</details>
 				</p>
             </td>
-        </tr>
-		<tr>
-            <td width="50%" align="center">
+			<td width="50%" align="center">
                 <h3 align="center">
                 <a href="https://codeoz.gumroad.com/l/RXLYp" target="_blank" rel="noreferrer">Underrated skill in javascript 📚</a>
                 </h3>
@@ -191,17 +178,6 @@
                     </p>
                 </p>
             </td>
-            <td width="50%">
-                <h3 align="center">
-					<a href="https://planter-malin.fr/" target="blank">Planter malin</a>
-                </h3>
-                <p align="center">
-					<img src="https://www.planter-malin.fr/wp-content/uploads/2023/04/1.png" alt="javascript" width="150" height="150"/>
-                    <p align="center">
-                       Wordpress blog for a client.
-                    </p>
-				</p>
-			</td>
         </tr>
 		<tr>
             <td width="50%" align="center">
@@ -252,7 +228,7 @@
 	</p>
 	<p align="center">
 		<p align="center">
-			<a href="https://chrome.google.com/webstore/detail/beta-twitch-plus/ahdoacgdgcgkhmajnmibefppffbbkgnl?hl=fr&authuser=0" target="_blank" rel="noopener"> Twitch plus 🤖</a> 
+			<a href="https://chrome.google.com/webstore/detail/beta-twitch-plus/ahdoacgdgcgkhmajnmibefppffbbkgnl?hl=fr&authuser=0" target="_blank" rel="noopener"> Twitch plus 🤖</a>
 			<p align="center">
 				Chrome extension that improve your experience on twitch.
 			</p>
@@ -260,7 +236,7 @@
 	</p>
 	<p align="center">
 		<p align="center">
-			<a href="https://www.npmjs.com/package/liftp-js" target="_blank" rel="noopener"> liftP JS 📦</a> 
+			<a href="https://www.npmjs.com/package/liftp-js" target="_blank" rel="noopener"> liftP JS 📦</a>
 			<p align="center">
 				NPM Package to modify a sync function into an async function without manage parameters.
 			</p>
@@ -275,7 +251,7 @@
 		</p>
 	</p>
 	<p style='margin-bottom: 175px'>
-	</p> 
+	</p>
 </details>
 
 <!-- Technos -->
@@ -340,7 +316,7 @@
 <h3 align="center">If you need my expertise for your project 👇</h3>
 <p align="center">
     - <a href="https://twitter.com/messages/compose?recipient_id=1270463775309795333" target="_blank" rel="noopener"> You can send me message on twitter</a>
-</p> 
+</p>
 <p align="center">
     - <a href="mailto:codeoz.pro@gmail.com">Send email</a>
     <p style='margin-bottom: 20px'>
@@ -421,7 +397,7 @@
         </td>
     </tr>
 </table>
- 
+
 <!-- Important Articles -->
 <h1 align="center"> Most viewed article on Devto 📰 </h1>
 <p align="center"> I like to share my knowledge through my articles on <a href="https://dev.to/codeoz" target="_blank" rel="noopener">dev.to</a> </p>
