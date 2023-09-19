@@ -330,6 +330,7 @@
 		<summary>
 			<b>Projects</b>
 		</summary>
+		<h2> <a href="https://glittery-gaufre-5d12a9.netlify.app/" target="_blank"> Chillflix 3D </a> </h2>
 		    <h2> <a href="https://eloquent-panda-0b559c.netlify.app/" target="_blank"> Tetris animation </a> </h2>
 			<h2> <a href="https://vermillion-fudge-67b838.netlify.app/" target="_blank"> Animation scene </a> </h2>
 			<h2> <a href="https://wondrous-semifreddo-df312d.netlify.app/" target="_blank"> Galaxy </a> </h2>
