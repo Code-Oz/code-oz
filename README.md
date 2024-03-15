@@ -61,10 +61,10 @@
             </td>
             <td width="50%">
                 <h3 align="center">
-                    <a href="https://cacabox-tv.com/" target="_blank" rel="noreferrer">CCbox TV 📹</a>
+                    <a href="https://shiny-sundae-d1e169.netlify.app/" target="_blank" rel="noreferrer">CCbox TV 📹</a>
                 </h3>
                 <p align="center">
-                    <a href="https://cacabox-tv.com/" target="_blank" rel="noreferrer"> <img src="./static/ccbox-tv.gif" alt="ccbox-tv"/> </a>
+                    <a href="https://shiny-sundae-d1e169.netlify.app/" target="_blank" rel="noreferrer"> <img src="./static/ccbox-tv.gif" alt="ccbox-tv"/> </a>
                     <p align="center">
                         A netflix like for the Youtube Channel CCBTV
                     </p>
