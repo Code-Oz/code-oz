@@ -32,9 +32,6 @@
 	<p align="left">
         <a href="https://aws.amazon.com/certification/certified-developer-associate/" target="blank"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="code__oz" />Certificated</a>
     </p>
-	<p align="left">
-	        <a href="https://www.esin-ecole.com/" target="blank">👨‍🏫 Teacher for ESIN School about Nodejs.</a>
-    </p>
 </p>
 
 <!-- Projects -->
