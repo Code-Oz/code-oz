@@ -245,6 +245,9 @@
     <a href="https://vitest.dev/" target="_blank">
     <img src="https://vitest.dev/logo-shadow.svg" alt="vitest" width="50" height="50"/>
 	</a>
+	    <a href="https://playwright.dev/" target="_blank">
+    <img src="https://playwright.dev//img/playwright-logo.svg" alt="playwirght" width="50" height="50"/>
+	</a>
     <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="50" height="50"/> </a>
 	<a href="https://pnpm.io/" target="_blank"> <img src="https://d33wubrfki0l68.cloudfront.net/aad219b6c931cebb53121dcda794f6180d9e4397/17f34/assets/images/pnpm-standard-79c9dbb2e99b8525ae55174580061e1b.svg" alt="pnpm" width="50" height="50"/> </a>
 	<a href="https://turbo.build/repo" target="_blank"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/turborepo-icon.svg" alt="git" width="50" height="50"/> </a>
