@@ -57,20 +57,24 @@
             </p>
             </td>
             <td width="50%">
-                <h3 align="center">
-                    <a href="https://shiny-sundae-d1e169.netlify.app/" target="_blank" rel="noreferrer">CCbox TV 📹</a>
+                            <h3 align="center">
+                    <a href="https://chrome.google.com/webstore/detail/pets-chrome/ifaicffibnedodkbekogndkdfeojcofb" target="_blank" rel="noreferrer">Chrome plugin: Pets for chrome</a>
                 </h3>
                 <p align="center">
-                    <a href="https://shiny-sundae-d1e169.netlify.app/" target="_blank" rel="noreferrer"> <img src="./static/ccbox-tv.gif" alt="ccbox-tv"/> </a>
+                    <a href="https://chrome.google.com/webstore/detail/pets-chrome/ifaicffibnedodkbekogndkdfeojcofb" target="_blank" rel="noreferrer"> <img src="./static/logo-pet-chrome.png" alt="pets for chrome" width="50%"/> </a>
                     <p align="center">
-                        A netflix like for the Youtube Channel CCBTV
+                        🐾 Pets for Chrome is an application that adds cute and cuddly pets right into your browser.
                     </p>
-					<details>
-						<summary>
-						<b>Note 📝</b>
-						</summary>
-						I used Vue 2 with Element UI and typescript. Also use webpack.
-					</details>
+                        <p align="center">
+                        20 000 + current users !
+                    </p>
+                    <details>
+                        <summary>
+                        <b>Note 📝</b>
+                        </summary>
+                        Create a chrome plugin with native JS and webpack. Use spriteling js.
+                    </details>
+                </p>
                 </p>
             </td>
         </tr>
@@ -92,25 +96,21 @@
 					</details>
                 </p>
             </td>
-				<td width="50%">
-                <h3 align="center">
-                    <a href="https://chrome.google.com/webstore/detail/pets-chrome/ifaicffibnedodkbekogndkdfeojcofb" target="_blank" rel="noreferrer">Chrome plugin: Pets for chrome</a>
+            <td width="50%">
+             <h3 align="center">
+                    <a href="https://shiny-sundae-d1e169.netlify.app/" target="_blank" rel="noreferrer">CCbox TV 📹</a>
                 </h3>
                 <p align="center">
-                    <a href="https://chrome.google.com/webstore/detail/pets-chrome/ifaicffibnedodkbekogndkdfeojcofb" target="_blank" rel="noreferrer"> <img src="./static/logo-pet-chrome.png" alt="pets for chrome" width="50%"/> </a>
+                    <a href="https://shiny-sundae-d1e169.netlify.app/" target="_blank" rel="noreferrer"> <img src="./static/ccbox-tv.gif" alt="ccbox-tv"/> </a>
                     <p align="center">
-                        🐾 Pets for Chrome is an application that adds cute and cuddly pets right into your browser.
-                    </p>
-                        <p align="center">
-                        20 000 + current users !
+                        A netflix like for the Youtube Channel CCBTV
                     </p>
 					<details>
 						<summary>
 						<b>Note 📝</b>
 						</summary>
-						Create a chrome plugin with native JS and webpack. Use spriteling js.
+						I used Vue 2 with Element UI and typescript. Also use webpack.
 					</details>
-            </p>
             </td>
         </tr>
         <tr>
@@ -144,47 +144,6 @@
 						</summary>
 						We use typescript and jest.
 					</details>
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td width="50%">
-                <h3 align="center">
-                    Monorepo
-                </h3>
-                <p align="center">
-                    <p align="center">
-                       I created a whole monorepo from scratch, this monorepo support automatically re-build libs and reload all api and front applications.
-                    </p>
-					<details>
-						<summary>
-						<b>Note 📝</b>
-						</summary>
-						I Created it with PNPM, Turborepo, Docker compose, Typescript support, Bash script, ESLINT, Prettier, Editor config, Jest, Husky. My best improvement with my last monorepo creation is the replacement of Yarn workspace by PNPM and the lib auto-rebuild with Turborepo.
-					</details>
-				</p>
-            </td>
-			<td width="50%" align="center">
-                <h3 align="center">
-                <a href="https://codeoz.gumroad.com/l/RXLYp" target="_blank" rel="noreferrer">Underrated skill in javascript 📚</a>
-                </h3>
-                <p align="center">
-                    <a href="https://codeoz.gumroad.com/l/RXLYp" target="_blank" rel="noreferrer"> <img src="./static/ebook-underrated.png" alt="ccbox-tv" /> </a>
-                    <p align="center">
-                        This book is for all javascript developers that want to learn unpopular things about javascript
-                    </p>
-                </p>
-            </td>
-        </tr>
-		<tr>
-            <td width="50%" align="center">
-                <h3 align="center">
-                    Bot creator
-                </h3>
-                <p align="center">
-                    <p align="center">
-                        I create a bot manager with Puppeteer
-                    </p>
                 </p>
             </td>
         </tr>
@@ -261,9 +220,7 @@
     <a href="https://www.typescriptlang.org/" target="_blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
 	</a>
-    <a href="https://webpack.js.org" target="_blank">
-		<img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" alt="webpack" width="50" height="50"/>
-	</a>
+
 </p>
 <h3 align="center">Front</h3>
 <p align="center">
@@ -279,8 +236,17 @@
 <p align="center">
 	<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
     <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a>
+    <a href="https://webpack.js.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" alt="webpack" width="50" height="50"/>
+	</a>
+    <a href="https://vitejs.dev/" target="_blank">
+    <img src="https://vitejs.dev/logo-with-shadow.png" alt="vite" width="50" height="50"/>
+	</a>
+    <a href="https://vitest.dev/" target="_blank">
+    <img src="https://vitest.dev/logo-shadow.svg" alt="vitest" width="50" height="50"/>
+	</a>
     <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="50" height="50"/> </a>
-	<a href="https://pnpm.io/" target="_blank"> <img src="https://d33wubrfki0l68.cloudfront.net/aad219b6c931cebb53121dcda794f6180d9e4397/17f34/assets/images/pnpm-standard-79c9dbb2e99b8525ae55174580061e1b.svg" alt="git" width="50" height="50"/> </a>
+	<a href="https://pnpm.io/" target="_blank"> <img src="https://d33wubrfki0l68.cloudfront.net/aad219b6c931cebb53121dcda794f6180d9e4397/17f34/assets/images/pnpm-standard-79c9dbb2e99b8525ae55174580061e1b.svg" alt="pnpm" width="50" height="50"/> </a>
 	<a href="https://turbo.build/repo" target="_blank"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/turborepo-icon.svg" alt="git" width="50" height="50"/> </a>
 	<a href="https://prettier.io/" target="_blank"> <img src="https://github.com/get-icon/geticon/blob/master/icons/prettier.svg" alt="git" width="50" height="50"/> </a>
 	<a href="https://eslint.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" alt="git" width="50" height="50"/> </a>
@@ -291,6 +257,8 @@
 <p align="center">
     <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>
     <a href="https://nestjs.com/" target="_blank"> <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="nestjs" width="50" height="50"/> </a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+    <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOEXVZmo0Z-iI-UD1_wQpIdpk0plseGjNTcdYAc4Z__cZl26aFT3H575ySjxzmkumeMWA&usqp=CAU" target="_blank" rel="noreferrer"> <img src="https://www.prisma.io/" alt="prisma" width="40" height="40"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://ih1.redbubble.net/image.438908244.6144/st,small,507x507-pad,600x600,f8f8f8.u2.jpg" alt="express" width="50" height="50"/> </a>
 </p>
@@ -323,17 +291,12 @@
 <!-- Threejs -->
 <p style="margin: 15px;" align="center">
     <h1 align="center">THREEJS project 🎥</h1>
-	<details>
-		<summary>
-			<b>Projects</b>
-		</summary>
 		<h2> <a href="https://glittery-gaufre-5d12a9.netlify.app/" target="_blank"> Chillflix 3D </a> </h2>
 		    <h2> <a href="https://eloquent-panda-0b559c.netlify.app/" target="_blank"> Tetris animation </a> </h2>
 			<h2> <a href="https://vermillion-fudge-67b838.netlify.app/" target="_blank"> Animation scene </a> </h2>
 			<h2> <a href="https://wondrous-semifreddo-df312d.netlify.app/" target="_blank"> Galaxy </a> </h2>
 			<h2> <a href="https://resilient-caramel-d2bd2a.netlify.app/" target="_blank"> Dices roll with physics </a> </h2>
 			<h2> <a href="https://cheerful-strudel-3e4d82.netlify.app/" target="_blank"> Shaders Raging Sea </a> </h2>
-	</details>
 	<details>
 		<summary>
 			<b>Workbench</b>
