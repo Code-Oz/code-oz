@@ -41,10 +41,10 @@
         <tr>
             <td width="50%">
                 <h3 align="center">
-                    <a href="https://chillflix-radio.com/" target="_blank" rel="noreferrer"> Chillflix 🎶</a>
+                    <a href="https://sad-knuth-b86599.netlify.app" target="_blank" rel="noreferrer"> Chillflix 🎶</a>
                 </h3>
                 <p align="center">
-                    <a href="https://chillflix-radio.com/" target="_blank" rel="noreferrer"> <img src="./static/chillflix.gif" alt="chillflix"/> </a>
+                    <a href="https://sad-knuth-b86599.netlify.app" target="_blank" rel="noreferrer"> <img src="./static/chillflix.gif" alt="chillflix"/> </a>
                     <p align="center">
                         A chill radio from youtube to listen Lo-Fi music without being disturbed
                     </p>
