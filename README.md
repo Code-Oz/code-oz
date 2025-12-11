@@ -66,7 +66,7 @@
                         🐾 Pets for Chrome is an application that adds cute and cuddly pets right into your browser.
                     </p>
                         <p align="center">
-                        20 000 + current users !
+                        40 000 + current users !
                     </p>
                     <details>
                         <summary>
